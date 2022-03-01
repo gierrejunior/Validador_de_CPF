@@ -91,3 +91,4 @@ while x != 'fechar programa':
             print(f'{cpf} é um CPF válido')
             print()
             continua(a)
+            
