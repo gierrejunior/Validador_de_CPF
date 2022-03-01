@@ -22,7 +22,7 @@ def verificacao_cpf():
     elif len(cpf_inteiro) != 11:
         print('Quantidade de caracteres inválidos')
         
-        
+# Função que verifiva se o usuário deseja verificar outro CPF ou sair do programa       
 def continua(a):
     global x 
     while a not in 'SN':        
